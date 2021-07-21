@@ -1,0 +1,11 @@
+#input{
+    width: 450px;
+    margin-left: 20px;
+    font-size: 15px;
+}
+#notask{
+    font-weight: 600;
+    text-decoration-line: underline;
+    margin: 2px 230px;
+}
+
