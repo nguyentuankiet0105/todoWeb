@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/nguyentuankiet0105/todoWeb.git/static/css/main.2f34b1fd.chunk.css",
+    "main.js": "/nguyentuankiet0105/todoWeb.git/static/js/main.e4d60baa.chunk.js",
+    "main.js.map": "/nguyentuankiet0105/todoWeb.git/static/js/main.e4d60baa.chunk.js.map",
+    "runtime-main.js": "/nguyentuankiet0105/todoWeb.git/static/js/runtime-main.045130af.js",
+    "runtime-main.js.map": "/nguyentuankiet0105/todoWeb.git/static/js/runtime-main.045130af.js.map",
+    "static/css/2.ba8a8a05.chunk.css": "/nguyentuankiet0105/todoWeb.git/static/css/2.ba8a8a05.chunk.css",
+    "static/js/2.e303e2fb.chunk.js": "/nguyentuankiet0105/todoWeb.git/static/js/2.e303e2fb.chunk.js",
+    "static/js/2.e303e2fb.chunk.js.map": "/nguyentuankiet0105/todoWeb.git/static/js/2.e303e2fb.chunk.js.map",
+    "static/js/3.b191d86b.chunk.js": "/nguyentuankiet0105/todoWeb.git/static/js/3.b191d86b.chunk.js",
+    "static/js/3.b191d86b.chunk.js.map": "/nguyentuankiet0105/todoWeb.git/static/js/3.b191d86b.chunk.js.map",
+    "index.html": "/nguyentuankiet0105/todoWeb.git/index.html",
+    "static/css/2.ba8a8a05.chunk.css.map": "/nguyentuankiet0105/todoWeb.git/static/css/2.ba8a8a05.chunk.css.map",
+    "static/css/main.2f34b1fd.chunk.css.map": "/nguyentuankiet0105/todoWeb.git/static/css/main.2f34b1fd.chunk.css.map",
+    "static/js/2.e303e2fb.chunk.js.LICENSE.txt": "/nguyentuankiet0105/todoWeb.git/static/js/2.e303e2fb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/nguyentuankiet0105/todoWeb.git/static/media/logo.6ce24c58.svg",
+    "static/media/Home.css": "/nguyentuankiet0105/todoWeb.git/static/media/pic2.37cd194a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.045130af.js",
+    "static/css/2.ba8a8a05.chunk.css",
+    "static/js/2.e303e2fb.chunk.js",
+    "static/css/main.2f34b1fd.chunk.css",
+    "static/js/main.e4d60baa.chunk.js"
+  ]
+}
