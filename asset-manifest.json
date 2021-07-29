@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/todoWeb/static/css/main.0868c632.chunk.css",
-    "main.js": "/todoWeb/static/js/main.e4d60baa.chunk.js",
-    "main.js.map": "/todoWeb/static/js/main.e4d60baa.chunk.js.map",
-    "runtime-main.js": "/todoWeb/static/js/runtime-main.6c951625.js",
-    "runtime-main.js.map": "/todoWeb/static/js/runtime-main.6c951625.js.map",
+    "main.css": "/todoWeb/static/css/main.c889eff9.chunk.css",
+    "main.js": "/todoWeb/static/js/main.22e8830d.chunk.js",
+    "main.js.map": "/todoWeb/static/js/main.22e8830d.chunk.js.map",
+    "runtime-main.js": "/todoWeb/static/js/runtime-main.2b01f798.js",
+    "runtime-main.js.map": "/todoWeb/static/js/runtime-main.2b01f798.js.map",
     "static/css/2.ba8a8a05.chunk.css": "/todoWeb/static/css/2.ba8a8a05.chunk.css",
-    "static/js/2.e303e2fb.chunk.js": "/todoWeb/static/js/2.e303e2fb.chunk.js",
-    "static/js/2.e303e2fb.chunk.js.map": "/todoWeb/static/js/2.e303e2fb.chunk.js.map",
-    "static/js/3.b191d86b.chunk.js": "/todoWeb/static/js/3.b191d86b.chunk.js",
-    "static/js/3.b191d86b.chunk.js.map": "/todoWeb/static/js/3.b191d86b.chunk.js.map",
+    "static/js/2.c40e414f.chunk.js": "/todoWeb/static/js/2.c40e414f.chunk.js",
+    "static/js/2.c40e414f.chunk.js.map": "/todoWeb/static/js/2.c40e414f.chunk.js.map",
+    "static/js/3.7d34c7e0.chunk.js": "/todoWeb/static/js/3.7d34c7e0.chunk.js",
+    "static/js/3.7d34c7e0.chunk.js.map": "/todoWeb/static/js/3.7d34c7e0.chunk.js.map",
     "index.html": "/todoWeb/index.html",
     "static/css/2.ba8a8a05.chunk.css.map": "/todoWeb/static/css/2.ba8a8a05.chunk.css.map",
-    "static/css/main.0868c632.chunk.css.map": "/todoWeb/static/css/main.0868c632.chunk.css.map",
-    "static/js/2.e303e2fb.chunk.js.LICENSE.txt": "/todoWeb/static/js/2.e303e2fb.chunk.js.LICENSE.txt",
+    "static/css/main.c889eff9.chunk.css.map": "/todoWeb/static/css/main.c889eff9.chunk.css.map",
+    "static/js/2.c40e414f.chunk.js.LICENSE.txt": "/todoWeb/static/js/2.c40e414f.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/todoWeb/static/media/logo.6ce24c58.svg",
     "static/media/Home.css": "/todoWeb/static/media/pic2.37cd194a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c951625.js",
+    "static/js/runtime-main.2b01f798.js",
     "static/css/2.ba8a8a05.chunk.css",
-    "static/js/2.e303e2fb.chunk.js",
-    "static/css/main.0868c632.chunk.css",
-    "static/js/main.e4d60baa.chunk.js"
+    "static/js/2.c40e414f.chunk.js",
+    "static/css/main.c889eff9.chunk.css",
+    "static/js/main.22e8830d.chunk.js"
   ]
 }
