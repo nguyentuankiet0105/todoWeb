@@ -1,15 +1,15 @@
 #content {
-    font-weight: bold;
-    margin: 0 20px;
-    margin-top: 20px;
-    display: block;
-    float: left;
+    display: inline-block;
     font-size: 15px;
+    /* float: left; */
 }
-
+.infor{
+    font-size: 14px;
+    font-style: italic;
+}
 #status {
     display: block;
-    margin-top: 20px;
+    margin-top: 50px;
     float: right;
 }
 
@@ -20,7 +20,7 @@
 
 #task {
     width: 100%;
-    height: 50px;
+    height: fit-content;
     margin-top: 15px;
     border-top: 1px solid black;
 }

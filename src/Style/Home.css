@@ -10,7 +10,7 @@ body{
 }
 .container{
     margin: 20px auto;
-    width: 550px;
+    width: 800px;
     height: fit-content;
     border: 1px solid blue;
     border-radius: 4px;
